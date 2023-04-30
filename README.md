@@ -73,22 +73,22 @@ Lệnh trên cũng có thể được bao gồm trong tệp/etc/crontabs/root
 Để update tập lệnh hãy thực hiện lệnh bên dưới:
 ```
 
-/usr/bin/times-openwrt update
+/usr/bin/viet update
 ```
 
 Cập nhật thành công ta được như sau:
 
-times-openwrt: Update tệp lệnh...
+viet: Update tệp lệnh...
 
-times-openwrt: Đang tải tệp lệnh...
+viet: Đang tải tệp lệnh...
 
-times-openwrt: update thành công.
+viet: update thành công.
 
-times-openwrt: Đã xóa tệp update!
+viet: Đã xóa tệp update!
 
 Cách dùng: Thêm tên miền sau tệp lệnh!.
 
-times-openwrt: Thiếu tên miền/URL!.
+viet: Thiếu tên miền/URL!.
 
 Đội ngũ phát triển
 
