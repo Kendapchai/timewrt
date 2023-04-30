@@ -88,7 +88,7 @@ times-openwrt: Đã xóa tệp update!
 
 Cách dùng: Thêm tên miền sau tệp lệnh!.
 
-times-openwrt: Thiếu tên miền/URL!. Vào inbox FB Nguyễn Thắng để biết thêm chi tiết.
+times-openwrt: Thiếu tên miền/URL!.
 
 Đội ngũ phát triển
 
