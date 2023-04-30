@@ -39,17 +39,17 @@ Cài đặt các gói yêu cầu trước bằng cách mở terminal:
 opkg update && opkg install curl wget
 ```
 
-Dán lệnh bên dưới để cài đặt tập lệnh times-openwrt
+Dán lệnh bên dưới để cài đặt tập lệnh viet
 
 Dùng wget:
 ```
-wget --no-check-certificate "https://raw.githubusercontent.com/phuonganh2601/times-openwrt/main/times-openwrt" -O /usr/bin/times-openwrt && chmod +x /usr/bin/times-openwrt
+wget --no-check-certificate "https://raw.githubusercontent.com/vietter99/timesopenwrt/master/viet" -O /usr/bin/viet && chmod +x /usr/bin/viet
 ```
 
 dùng curl:
 ```
 
-curl -sL https://raw.githubusercontent.com/phuonganh2601/times-openwrt/main/times-openwrt > /usr/bin/times-openwrt && chmod +x /usr/bin/times-openwrt
+curl -sL https://raw.githubusercontent.com/vietter99/timesopenwrt/master/viet > /usr/bin/viet && chmod +x /usr/bin/viet
 ```
 
 Nhập lệnh bên dưới vào LuCI -> System -> Startup -> Local Startup hoặc tại rc.local nếu ở trong terminal
