@@ -140,8 +140,8 @@ function ngepink() {
 		logger "${nmfl}: Ping ${cv_type} OK, tiếp tục tác vụ..."
 	else 
 		if [[ "$2" == "cron" ]]; then
-			echo -e "${nmfl}: Cron kết nối tới ${cv_type} không khả dụng,khởi động lại VPN..."
-			logger "${nmfl}: Cron kết nối tới ${cv_type} không khả dụng,khởi động lại VPN..."
+			echo -e "${nmfl}: Cron kết nối tới ${cv_type} không khả dụng, khởi động lại VPN..."
+			logger "${nmfl}: Cron kết nối tới ${cv_type} không khả dụng, khởi động lại VPN..."
 			nyetop
 			nyetart
 		else
