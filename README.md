@@ -14,7 +14,6 @@ Sử dụng mặc định - Sử dụng cơ bản
 
 Cài đặt các gói yêu cầu trước bằng cách mở terminal:
 ```
-
 opkg update && opkg install curl wget
 ```
 
@@ -61,14 +60,3 @@ viet: Đã xóa tệp update!
 Cách dùng: Thêm tên miền sau tệp lệnh!.
 
 viet: Thiếu tên miền/URL!.
-
-Đội ngũ phát triển
-
-Tập lệnh và codes của AlkhaNet by Teguh Surya Mungaran
-
-Mã GMT và các mã khác của Vito H.S
-
-Trình kiểm tra và cài đặt opkg, kiểm tra internet, vpn manager, codes chọn GMT của Helmi Amirudin
-    
-
-
